@@ -1,0 +1,89 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "libelle": "Stylo",
+      "prix": 0.85
+    },
+    {
+      "id": 2,
+      "libelle": "cartable",
+      "prix": 100.8
+    },
+    {
+      "id": 3,
+      "libelle": "trousse",
+      "prix": 10.6
+    },
+    {
+      "id": 4,
+      "libelle": "tablier",
+      "prix": 23.8
+    },
+    {
+      "id": 122,
+      "libelle": "trousse",
+      "prix": 10
+    },
+    {
+      "id": 126,
+      "libelle": "trousse",
+      "prix": 10
+    },
+    {
+      "id": 250,
+      "libelle": "trousse",
+      "prix": 10
+    },
+    {
+      "id": 38,
+      "libelle": "trousse",
+      "prix": 10
+    },
+    {
+      "id": 632,
+      "libelle": "trousse",
+      "prix": 10
+    },
+    {
+      "id": 649,
+      "libelle": "trousse",
+      "prix": 10
+    },
+    {
+      "id": 374,
+      "libelle": "trousse",
+      "prix": 10
+    },
+    {
+      "id": 476,
+      "libelle": "trousse",
+      "prix": 10
+    },
+    {
+      "id": 174,
+      "libelle": "trousse",
+      "prix": 10
+    },
+    {
+      "id": 969,
+      "libelle": "trousse",
+      "prix": 10
+    },
+    {
+      "id": 204,
+      "libelle": "trousse",
+      "prix": 10
+    },
+    {
+      "id": 258,
+      "libelle": "trousse",
+      "prix": 10
+    },
+    {
+      "id": 5,
+      "libelle": "trousse",
+      "prix": 10
+    }
+  ]
+}

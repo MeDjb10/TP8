@@ -1,0 +1,47 @@
+{
+  "parcs": [
+    {
+      "id": 1,
+      "nom": "Dream Park",
+      "photo": "assets/dream.jpg",
+      "nbLikes": 580,
+      "dateOuverture": "2021-09-09",
+      "horaire": "8h00 - 18h00",
+      "lieu": "Tabarka"
+    },
+    {
+      "id": 2,
+      "nom": "Hannibal Park",
+      "photo": "assets/hannibal.jpg",
+      "nbLikes": 8596,
+      "dateOuverture": "2020-12-17",
+      "horaire": "10h00 - 22h00",
+      "lieu": "Sfax"
+    },
+    {
+      "id": 3,
+      "nom": "Charguia Park",
+      "photo": "assets/charguia.jpg",
+      "nbLikes": 3621,
+      "dateOuverture": "2023-01-08",
+      "horaire": "10h00 - 17h00"
+    },
+    {
+      "id": 4,
+      "nom": "Alyssa Park",
+      "photo": "assets/alyssa.jpg",
+      "nbLikes": 423,
+      "dateOuverture": "2023-08-15",
+      "horaire": "8h00 - 23h00",
+      "lieu": "Tunis"
+    },
+    {
+      "id": 5,
+      "nom": "Amilcar Park",
+      "photo": "assets/amilcar.jpg",
+      "nbLikes": 4263,
+      "dateOuverture": "2021-06-23",
+      "lieu": "Nabeul"
+    }
+  ]
+}
